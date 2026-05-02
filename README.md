@@ -1,53 +1,47 @@
-## Hey, I'm Leonel 👋
-**Full Stack Engineer · Neuquén, Argentina · Open to remote EU roles**
+# Leonel Quiroga
+**Full Stack Engineer** · Neuquén, Argentina · open to remote EU roles
 
 ---
 
-I build and ship **production-grade web platforms** — from React/TypeScript frontends to Node.js/NestJS backends and mobile apps with React Native. Over the past 7+ years I've worked across e-commerce, document management, and enterprise ERP systems, including real-time applications for the **oil & gas industry**.
+I don't write code first. I figure out what actually needs to be solved, map the possible paths, and then pick the one that fits — not the most impressive one, the right one. A personal portfolio doesn't need a microservices cluster. A high-traffic ERP does.
 
-Currently working as **Frontend Tech Lead** at a software consultancy, leading architecture decisions and mentoring developers. Actively exploring AI agent integration with LangChain and CrewAI to accelerate delivery workflows.
+I care about code that the next person can read without asking questions. Clean structure, consistent naming, decisions documented where they matter. No clever tricks that save three lines but cost an hour of confusion.
 
----
-
-## 🛠 Tech stack
-
-**Frontend**
-`React` `TypeScript` `Next.js` `React Native`
-
-**Backend**
-`Node.js` `NestJS` `Laravel` `PHP`
-
-**Data & tools**
-`PostgreSQL` `MySQL` `MongoDB` `Prisma` `Git` `Vercel` `Docker`
-
-**Currently learning**
-`LangChain` `CrewAI` `AI Agents` `Cursor AI`
+One thing I'm proud of: I built a **fully dynamic table renderer** — given a schema from the backend, it draws any table under any set of rules without touching the component. That kind of reusable precision is how I like to think about problems.
 
 ---
 
-## 🔨 What I'm building now
+## Stack
 
-**[Price Monitor](https://github.com/leonelquiroga/price-monitor)** — `In development`
-> React Native · Node.js · PostgreSQL · Web Scraping · Time Series
-> Mobile app for automated price tracking with time-series analysis and push alerts. Integrates an AI agent for anomaly detection.
-
-**[Advanced Scheduler](https://github.com/leonelquiroga/advanced-scheduler)** — `In development`
-> NestJS · Clean Architecture · Queue Management · REST API · TypeScript
-> Enterprise scheduling system built to demonstrate production-level NestJS architecture: modules, guards, interceptors, queues and testing.
+| | | |
+|---|---|---|
+| **React / Next.js** · frontend | **TypeScript** · primary language | **NestJS / Node.js** · backend |
+| **PostgreSQL** · primary db | **React Native** · mobile | **Laravel / PHP** · legacy backend |
 
 ---
 
-## 📦 A few things I've shipped
+## Currently building
 
-- **ERP for oil & gas** — React + TypeScript frontend, Screaming Architecture, led a team of 3
+**[price-monitor](https://github.com/leonelquiroga/price-monitor)** `in development`
+Automated price tracking across sources. Scrapes, stores as time series, detects anomalies with a LangChain agent, and pushes mobile alerts.
+`React Native` `Node.js` `PostgreSQL` `Playwright` `LangChain`
+
+**[advanced-scheduler](https://github.com/leonelquiroga/advanced-scheduler)** `in development`
+Production-grade NestJS scheduling system. The point isn't the feature — it's the architecture: clean layers, typed queues, tested services, Swagger-documented API.
+`NestJS` `TypeScript` `BullMQ` `Prisma` `Jest`
+
+---
+
+## Things I've shipped
+
+- **ERP · oil & gas industry** — React + TypeScript, Screaming Architecture, tech lead
 - **Real-time admin panel** — Next.js + NestJS + WebSockets, 700k+ logged events
-- **Document management system** — HR & vehicle fleet workflows, petroleum industry clients
+- **Document management system** — HR & vehicle fleet, petroleum industry clients
 - **E-commerce platforms** — Laravel, product catalogs of 7k–15k+ SKUs
-- **Auction platform** — real-time bidding with live chat, built with Laravel
+- **Auction platform** — live bidding with real-time chat
 
 ---
 
-## 📬 Let's connect
+## Get in touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/leonelquiroga)
-- 📧 dev.leonelquiroga@gmail.com
+dev.leonelquiroga@gmail.com · [linkedin.com/in/leonelquiroga](https://linkedin.com/in/leonelquiroga)
