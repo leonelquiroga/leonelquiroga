@@ -1,0 +1,67 @@
+<svg width="900" height="120" viewBox="0 0 900 120"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <style>
+      .cat  { font: 500 9px "Segoe UI", sans-serif; fill: #484F58; text-transform: uppercase; letter-spacing: 1px; }
+      .tech { font: 500 12px "Segoe UI", sans-serif; fill: #C9D1D9; }
+      .dot  { fill: #21262D; }
+    </style>
+  </defs>
+
+  <rect width="900" height="120" fill="url(#bg2)" rx="12"/>
+  <rect x="0" y="0" width="900" height="1" fill="#21262D"/>
+  <rect x="0" y="119" width="900" height="1" fill="#21262D"/>
+
+  <!-- dividers -->
+  <line x1="225" y1="20" x2="225" y2="100" stroke="#21262D" stroke-width="1"/>
+  <line x1="450" y1="20" x2="450" y2="100" stroke="#21262D" stroke-width="1"/>
+  <line x1="675" y1="20" x2="675" y2="100" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Frontend -->
+  <text x="112" y="38" text-anchor="middle" class="cat">Frontend</text>
+  <circle cx="44"  cy="62" r="4" fill="#3B82F6"/>
+  <text x="54"  y="67" class="tech">React</text>
+  <circle cx="108" cy="62" r="4" fill="#3B7DC8"/>
+  <text x="118" y="67" class="tech">Next.js</text>
+  <circle cx="44"  cy="88" r="4" fill="#2F74C0"/>
+  <text x="54"  y="93" class="tech">TypeScript</text>
+  <circle cx="108" cy="88" r="4" fill="#61DAFB" opacity="0.8"/>
+  <text x="118" y="93" class="tech">RN</text>
+
+  <!-- Backend -->
+  <text x="337" y="38" text-anchor="middle" class="cat">Backend</text>
+  <circle cx="244" cy="62" r="4" fill="#E0234E"/>
+  <text x="254" y="67" class="tech">NestJS</text>
+  <circle cx="318" cy="62" r="4" fill="#6DB33F" opacity="0.9"/>
+  <text x="328" y="67" class="tech">Laravel</text>
+  <circle cx="244" cy="88" r="4" fill="#83BA63"/>
+  <text x="254" y="93" class="tech">Node.js</text>
+  <circle cx="318" cy="88" r="4" fill="#8892BF" opacity="0.8"/>
+  <text x="328" y="93" class="tech">PHP</text>
+
+  <!-- Data -->
+  <text x="562" y="38" text-anchor="middle" class="cat">Data</text>
+  <circle cx="469" cy="62" r="4" fill="#336791"/>
+  <text x="479" y="67" class="tech">PostgreSQL</text>
+  <circle cx="563" cy="62" r="4" fill="#47A248" opacity="0.9"/>
+  <text x="573" y="67" class="tech">MongoDB</text>
+  <circle cx="469" cy="88" r="4" fill="#4479A1"/>
+  <text x="479" y="93" class="tech">MySQL</text>
+  <circle cx="563" cy="88" r="4" fill="#5A67D8" opacity="0.9"/>
+  <text x="573" y="93" class="tech">Prisma</text>
+
+  <!-- Exploring -->
+  <text x="787" y="38" text-anchor="middle" class="cat">Exploring</text>
+  <circle cx="690" cy="62" r="4" fill="#F7B731"/>
+  <text x="700" y="67" class="tech">LangChain</text>
+  <circle cx="783" cy="62" r="4" fill="#9B59B6" opacity="0.9"/>
+  <text x="793" y="67" class="tech">CrewAI</text>
+  <circle cx="690" cy="88" r="4" fill="#2DCC70" opacity="0.9"/>
+  <text x="700" y="93" class="tech">AI Agents</text>
+  <circle cx="783" cy="88" r="4" fill="#58A6FF" opacity="0.8"/>
+  <text x="793" y="93" class="tech">Cursor</text>
+</svg>
