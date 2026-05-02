@@ -45,7 +45,7 @@ Auction platform        live bidding + real-time chat
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leonelquiroga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonelquiroga)&nbsp;
-[![Email](https://img.shields.io/badge/Email-dev.leonelquiroga@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.leonelquiroga@gmail.com)&nbsp;
-[![Open to work](https://img.shields.io/badge/Open%20to-Remote%20EU%20roles-238636?style=flat)](mailto:dev.leonelquiroga@gmail.com)
+[![Email](https://img.shields.io/badge/Email-leonelquiroga.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:leonelquiroga.dev@gmail.com)&nbsp;
+[![Open to work](https://img.shields.io/badge/Open%20to-Remote%20EU%20roles-238636?style=flat)](mailto:leonelquiroga.dev@gmail.com)
 
 </div>
