@@ -2,7 +2,15 @@
   <img src="https://raw.githubusercontent.com/leonelquiroga/leonelquiroga/main/header-banner.svg" width="100%" alt="Leonel Quiroga — Full Stack Engineer"/>
 </div>
 
+I build and ship **production-grade web platforms** — from React/TypeScript frontends to Node.js/NestJS backends and mobile apps with React Native. Over the past 7+ years I've worked across e-commerce, document management, and enterprise ERP systems, including real-time applications for the **oil & gas industry**.
+
+Currently working as **Frontend Tech Lead** at a software consultancy, leading architecture decisions and mentoring developers. Actively exploring AI agent integration with LangChain and CrewAI to accelerate delivery workflows.
+
+---
+
 <br/>
+
+A brief comment about me:
 
 I don't write code first. I figure out what actually needs to be solved, map the possible paths, and pick the one that fits — not the most impressive one, the right one. A personal portfolio doesn't need a microservices cluster. A high-traffic ERP does.
 
